@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610034823 source:d:\project\medal_tally\main.cpp
+	<conio.h>
+	<iostream>
+	<Windows.h>
+	<mysql.h>
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<stdio.h>
+	<fstream>
+
+1610262943 source:d:\project\medal_tally\rr.rc
+

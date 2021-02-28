@@ -1,0 +1,18 @@
+            Medal Tally Of Current Event
+
+          Event Name-> centralasia
+
+           Year & Month-> 2021  mar
+
+         Host City-> baku
+
+|Event_Id | Rank | country | gold | silver |  bronze |  total |
+---------------------------------------------------------------
+
+| CA1     |  8   |   rus   |  8   |   2    |    1    |    11   |
+| CA1     |  9   |   kzn   |  7   |   4    |    1    |    12   |
+| CA1     |  10   |   azn   |  7   |   3    |    1    |    11   |
+| CA1     |  11   |   tzn   |  6   |   5    |    4    |    15   |
+| CA1     |  12   |   uzn   |  6   |   5    |    2    |    13   |
+| CA1     |  13   |   krn   |  6   |   5    |    1    |    12   |
+| CA1     |  14   |   trn   |  6   |   4    |    0    |    10   |

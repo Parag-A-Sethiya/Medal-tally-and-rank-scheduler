@@ -1,0 +1,18 @@
+            Medal Tally Of Current Event
+
+          Event Name-> olympics
+
+           Year & Month-> 2024  mar
+
+         Host City-> moscow
+
+|Event_Id | Rank | country | gold | silver |  bronze |  total |
+---------------------------------------------------------------
+
+| OL2     |  1   |   aus   |  9   |   9    |    9    |    27   |
+| OL2     |  2   |   usa   |  9   |   9    |    8    |    26   |
+| OL2     |  3   |   eng   |  9   |   9    |    0    |    18   |
+| OL2     |  4   |   jap   |  9   |   8    |    8    |    25   |
+| OL2     |  5   |   chi   |  8   |   8    |    1    |    17   |
+| OL2     |  6   |   can   |  8   |   1    |    8    |    17   |
+| OL2     |  7   |   ind   |  3   |   2    |    1    |    6   |

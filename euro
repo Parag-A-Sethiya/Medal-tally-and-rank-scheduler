@@ -1,0 +1,17 @@
+            Medal Tally Of Current Event
+
+          Event Name-> eurocup
+
+           Year & Month-> 2022  jul
+
+         Host City-> oslo
+
+|Event_Id | Rank | country | gold | silver |  bronze |  total |
+---------------------------------------------------------------
+
+| EU1     |  1   |   sco   |  5   |   2    |    3    |    10   |
+| EU1     |  2   |   den   |  3   |   5    |    4    |    12   |
+| EU1     |  3   |   swe   |  3   |   2    |    1    |    6   |
+| EU1     |  4   |   fin   |  3   |   2    |    1    |    6   |
+| EU1     |  5   |   eng   |  2   |   1    |    1    |    4   |
+| EU1     |  6   |   spn   |  2   |   1    |    0    |    3   |

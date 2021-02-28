@@ -1,0 +1,15 @@
+            Medal Tally Of Current Event
+
+          Event Name-> saarc6
+
+           Year & Month-> 2016  jul
+
+         Host City-> delhi
+
+|Event_Id | Rank | country | gold | silver |  bronze |  total |
+---------------------------------------------------------------
+
+| SA6     |  1   |   ban   |  4   |   7    |    1    |    12   |
+| SA6     |  2   |   nep   |  4   |   4    |    5    |    13   |
+| SA6     |  3   |   ind   |  4   |   4    |    4    |    12   |
+| SA6     |  4   |   pak   |  4   |   1    |    7    |    12   |

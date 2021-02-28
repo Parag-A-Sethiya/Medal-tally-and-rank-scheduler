@@ -1,0 +1,17 @@
+            Medal Tally Of Current Event
+
+          Event Name-> saarc10
+
+           Year & Month-> 2022  mar
+
+         Host City-> kabul
+
+|Event_Id | Rank | country | gold | silver |  bronze |  total |
+---------------------------------------------------------------
+
+| SA0     |  1   |   pak   |  3   |   5    |    1    |    9   |
+| SA0     |  2   |   mal   |  2   |   5    |    1    |    8   |
+| SA0     |  3   |   ind   |  2   |   4    |    5    |    11   |
+| SA0     |  4   |   nep   |  2   |   4    |    1    |    7   |
+| SA0     |  5   |   ban   |  1   |   0    |    0    |    1   |
+| SA0     |  6   |   sri   |  1   |   0    |    0    |    1   |

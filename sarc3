@@ -1,0 +1,16 @@
+            Medal Tally Of Current Event
+
+          Event Name-> saarc3
+
+           Year & Month-> 2019  oct
+
+         Host City-> colombo
+
+|Event_Id | Rank | country | gold | silver |  bronze |  total |
+---------------------------------------------------------------
+
+| SA3     |  1   |   ban   |  4   |   1    |    4    |    9   |
+| SA3     |  2   |   sri   |  4   |   3    |    1    |    8   |
+| SA3     |  3   |   ind   |  3   |   2    |    4    |    9   |
+| SA3     |  4   |   pak   |  2   |   1    |    1    |    4   |
+| SA3     |  5   |   nep   |  0   |   2    |    1    |    3   |

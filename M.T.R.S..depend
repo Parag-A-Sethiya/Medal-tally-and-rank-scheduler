@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1610449276 source:d:\project\medal_tally\main.cpp
+	<conio.h>
+	<iostream>
+	<Windows.h>
+	<mysql.h>
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<stdio.h>
+	<fstream>
+	"EasyBMP.h"
+
+1610262943 source:d:\project\medal_tally\rr.rc
+
+1610448126 d:\project\medal_tally\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1610448126 d:\project\medal_tally\easybmp_datastructures.h
+
+1610448126 d:\project\medal_tally\easybmp_bmp.h
+
+1610448126 d:\project\medal_tally\easybmp_variousbmputilities.h
+

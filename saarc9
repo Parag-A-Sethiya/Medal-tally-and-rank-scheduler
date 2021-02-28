@@ -1,0 +1,17 @@
+            Medal Tally Of Current Event
+
+          Event Name-> saarc9
+
+           Year & Month-> 2021  apr
+
+         Host City-> dhaka
+
+|Event_Id | Rank | country | gold | silver |  bronze |  total |
+---------------------------------------------------------------
+
+| SA9     |  1   |   nep   |  7   |   4    |    3    |    14   |
+| SA9     |  2   |   ban   |  4   |   4    |    4    |    12   |
+| SA9     |  3   |   ind   |  4   |   3    |    2    |    9   |
+| SA9     |  4   |   pak   |  4   |   3    |    0    |    7   |
+| SA9     |  5   |   mal   |  1   |   0    |    0    |    1   |
+| SA9     |  6   |   afg   |  1   |   0    |    0    |    1   |
